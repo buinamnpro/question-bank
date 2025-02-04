@@ -1,0 +1,10 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "2 + 2 bằng mấy?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    }
+  ]
+}
