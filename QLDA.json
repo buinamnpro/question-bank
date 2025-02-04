@@ -1,0 +1,18 @@
+{
+  "Bai_1": [
+    {"question": "Ai chịu trách nhiệm chính trong việc lãnh đạo và giám sát dự án phần mềm?", "options": ["Tester", "Stakeholder", "Project Manager", "Developer"], "answer": "Project Manager"},
+    {"question": "Sự khác biệt chính giữa dự án phần mềm và dự án xây dựng là gì?", "options": ["Đội ngũ tham gia", "Quy mô dự án", "Tính linh hoạt và khả năng thay đổi yêu cầu", "Ngân sách thực hiện"], "answer": "Tính linh hoạt và khả năng thay đổi yêu cầu"},
+    {"question": "Quản lý dự án phần mềm là việc thực hiện các hoạt động nào?", "options": ["Thiết kế giao diện người dùng", "Tổ chức, lập kế hoạch, và kiểm soát dự án", "Quản lý khách hàng", "Phát triển mã nguồn"], "answer": "Tổ chức, lập kế hoạch, và kiểm soát dự án"},
+    {"question": "Vai trò của Tester là gì trong dự án phần mềm?", "options": ["Quản lý dự án", "Kiểm tra và đảm bảo chất lượng sản phẩm", "Phân tích yêu cầu", "Phát triển phần mềm"], "answer": "Kiểm tra và đảm bảo chất lượng sản phẩm"},
+    {"question": "Ai chịu trách nhiệm đưa ra phản hồi và yêu cầu thay đổi cho dự án?", "options": ["Developer", "Stakeholder", "Project Manager", "Tester"], "answer": "Stakeholder"},
+    {"question": "Vì sao vai trò của Stakeholder quan trọng trong quản lý dự án phần mềm?", "options": ["Họ đưa ra yêu cầu và phản hồi để dự án đáp ứng nhu cầu", "Họ thiết kế dự án theo đúng yêu cầu", "Họ phát triển sản phẩm đầy đủ chức năng", "Họ kiểm tra mã nguồn đảm bảo phần mềm hoạt động đúng"], "answer": "Họ đưa ra yêu cầu và phản hồi để dự án đáp ứng nhu cầu"},
+    {"question": "Developer có vai trò gì trong quy trình quản lý dự án phần mềm?", "options": ["Quản lý ngân sách dự án", "Xây dựng yêu cầu khách hàng", "Giám sát tiến độ dự án", "Thực hiện phát triển và triển khai mã nguồn"], "answer": "Thực hiện phát triển và triển khai mã nguồn"}
+  ],
+  "Bai_2": [
+    {"question": "Phương pháp Waterfall trong quản lý dự án là gì?", "options": ["Phương pháp tuần tự với các giai đoạn cố định", "Phương pháp lặp đi lặp lại", "Phương pháp xoay vòng", "Phương pháp ưu tiên khách hàng"], "answer": "Phương pháp tuần tự với các giai đoạn cố định"},
+    {"question": "Phương pháp nào sử dụng các chu kỳ ngắn gọi là sprints?", "options": ["Scrum", "Lean", "Waterfall", "XP (Extreme Programming)"], "answer": "Scrum"},
+    {"question": "So với Agile, Lean có điểm nhấn mạnh gì khác biệt?", "options": ["Tăng tốc độ phát triển", "Phát triển sản phẩm tốt hơn", "Giảm thiểu lãng phí và tối ưu hóa quy trình", "Tập trung vào khách hàng"], "answer": "Giảm thiểu lãng phí và tối ưu hóa quy trình"},
+    {"question": "Điều gì làm cho phương pháp Lean trở nên hiệu quả trong quản lý dự án?", "options": ["Không cần sự tham gia của khách hàng", "Tăng tốc độ hoàn thành sản phẩm", "Cho phép thay đổi yêu cầu liên tục", "Loại bỏ các bước không cần thiết để giảm lãng phí"], "answer": "Loại bỏ các bước không cần thiết để giảm lãng phí"},
+    {"question": "Điểm đặc trưng của Scrum là gì?", "options": ["Sử dụng quy trình thực hiện tuần tự", "Chỉ áp dụng cho các nhóm có quy mô nhỏ", "Không cần tiến hành giai đoạn kiểm thử", "Chu kỳ ngắn và tập trung vào sự linh hoạt cao"], "answer": "Chu kỳ ngắn và tập trung vào sự linh hoạt cao"}
+  ]
+}
